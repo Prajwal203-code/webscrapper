@@ -2,7 +2,7 @@ Flask
 pandas
 requests
 beautifulsoup4
-transformers
-torch
 numpy
 lxml
+torch==2.2.0+cpu --index-url https://download.pytorch.org/whl/cpu
+transformers
