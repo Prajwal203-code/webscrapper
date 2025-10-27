@@ -2,8 +2,6 @@ Flask
 pandas
 requests
 beautifulsoup4
-transformers
-torch
 numpy
 lxml
 gunicorn
