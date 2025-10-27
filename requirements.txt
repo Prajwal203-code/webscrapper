@@ -6,3 +6,4 @@ transformers
 torch
 numpy
 lxml
+gunicorn
