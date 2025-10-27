@@ -3,6 +3,6 @@ pandas
 requests
 beautifulsoup4
 transformers
-torch==2.5.1+cpu
+torch
 numpy
 lxml
